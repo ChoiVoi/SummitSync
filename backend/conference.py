@@ -7,13 +7,21 @@ import base64
 import os.path
 from email.mime.text import MIMEText
 import googlemaps
+import json
 from firebase_admin import auth
 import smtplib
 # Login details for summitsync email account. NOTE: uses google app password
 sender = "summitsync7@gmail.com"
 password = "dlclqzwvyxffsnkw"
 
-mapsClient = googlemaps.Client(key='AIzaSyAL2ptJW3gxxYbdxhASMLl14Oq16ngxLgs')
+def load_api_key(filepath):
+    with open(filepath, 'r') as file:
+        data = json.load(file)
+        return data['key']
+    
+api_key= load_api_key('googlemapsAPI.json')
+
+mapsClient = googlemaps.Client(key=api_key)
 
 def conference_create(request):
     try:    
