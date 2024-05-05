@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+backend/database/serviceAccountkey.json
+backend/credentials.json
+backend/token.json
+backend/token 2.json

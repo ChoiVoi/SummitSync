@@ -1,0 +1,34 @@
+Week 1
+Group formed and named. Selected Scrum Master. Created the Jira Site. 
+Decided on the topic with other group members.
+
+Week 2
+We decided to use Python for backend, React for frontend and postgresql for database. 
+Setup Github repo. Continued formulation of project plan and user stories.
+Selected project lead. We can start working on the proposal next week after more information is given from client.
+
+Week 3
+Had a meeting with client. Finished the proposal in functionalities. 
+Decided on what tasks to be done in sprint 1.
+
+Week 4
+Disscuss the implementation of the system. Responsible for doing the forum/communication backend routes.
+Finished most of the routes.
+
+Week 5 
+Finished all the routes and do the demo and retrospective.
+
+Week 6
+brainstormed the idea of the task routes and documente it.
+
+Week 7
+Finished all the task routes for backend.
+
+Week 8 
+Implement user profile backend function.
+
+Week 9
+brainstormed the idea of the attendance routes and documente it.
+
+Week 10
+added some routes for attendance and finish the report.

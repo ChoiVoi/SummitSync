@@ -1,0 +1,38 @@
+Week 1
+- Formed groups, decided on project, team name and roles
+
+Week 2
+- Continued formulation of project plan, tools to use
+- Setup Github repo
+
+Week 3
+- Group: Finish and submit proposal
+- Individual: added to user stories and novel function sections of proposal
+
+Week 4
+- Group: discuss implementation of system
+- Individual: begin database functions
+
+Week 5
+- Group: continue code for demo 1 and do demo 1 and retrospective
+- Individual: continue database functions
+
+Week 6
+- Group: continue code development
+- Individual: continue database functions
+
+Week 7
+- Group: continue code development
+- Individual: create extra functions for database as required by backend and frontend
+
+Week 8
+- Group: prepare for demo 2 and demo 2 retrospective
+- Individual: continue database functions
+
+Week 9
+- Group: continue code development
+- Individual: development attendance and rating database functions
+
+Week 10
+- Group: finalise codebase, prepare for final demo and start and finish report
+- Individual: finalise database codebase

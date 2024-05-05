@@ -1,0 +1,43 @@
+Week 1:
+We grouped up and created our jira site during the tutorial. I decided to be the scrum master.
+We settled on P22 as our project.
+
+Week 2:
+This week we spent a lot of time thinking about how we should structure our app, and brainstormed
+some possible novel features. We also selected languages based on the team's skills (React, Python, Postgresql etc.).
+We have selected a team lead and are currently arranging a meeting with our client before we begin our proposal.
+
+Week 3:
+We worked on our proposal. I was in charge of the background information and storyboard. Used Involve and
+Volaby as examples of other systems in our problem domain. I created the storyboard using figma. We completed
+and submitted our proposal on friday.
+
+Week 4:
+We have started coding up our project. Jay and I are progressing on the frontend. Krishnan, Jon, and Josh are 
+working on the backend. We have combined firebase's authentication module with our frontend, so that users can 
+register their accounts, and login or logout.
+
+Week 5:
+Worked more on our project. We combined our frontend and backend to get ready for the demo. After the demo, we 
+held a retrospective meeting where we discussed what went well, what didn't go well, and what to try for the next
+sprint so that we can improve our workflow. We condensed this into a report and submitted it.
+
+Week 6:
+We finished some user stories (delete account, create conference, search for conference, join conference). I added an
+applications page to each conference so that organisers can approve join requests. Also, forums and posts can be seen
+for each conference, and users can make posts.
+
+Week 7:
+This week I fixed some issues with forums and posts. I also added the function to promote volunteers to managers on the
+frontend. Also, users can now create and view tasks on the frontend.
+
+Week 8:
+Completed task functionality, so volunteers can join or leave tasks, and managers can assign or unassign volunteers 
+from a task. Also, prepared for demo.
+
+Week 9:
+Implemented event functionality in frontend. Brainstormed and planned how we should continue with sprint 3 features
+such as attendance, feedback, ratings etc.
+
+Week 10:
+Implemented attendance and feedback functions into frontend. Completed our demo, final report, peer reviews.
